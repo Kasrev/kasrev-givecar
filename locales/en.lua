@@ -1,0 +1,40 @@
+return {
+    playerId = "PLAYER ID",
+    vehicleCode = "VEHICLE CODE",
+    plate = "PLATE",
+    plateColor = "PLATE COLOR",
+    vehicleColor = "VEHICLE COLOR",
+    vehicleColors = {
+        { 0, "Black" },
+        { 1, "Graphite Black" },
+        { 4, "Silver" },
+        { 6, "Steel Gray" },
+        { 7, "Midnight Silver" },
+        { 8, "Gun Metal" },
+        { 10, "Red" },
+        { 13, "Blaze Red" },
+        { 18, "Candy Red" },
+        { 21, "Orange" },
+        { 27, "Ultra Blue" },
+        { 34, "Dark Green" },
+        { 35, "Racing Green" },
+        { 41, "Yellow" },
+        { 48, "Gold" },
+        { 53, "White" },
+        { 54, "Cream" },
+        { 88, "Matte Black" },
+        { 111, "Pearl White" }
+    },
+    colors = {
+        "White Plate - Blue Text",
+        "Black Plate - Yellow Text",
+        "Blue Plate - Yellow Text",
+        "White Plate - Blue Text 2",
+        "White Plate - Blue Text 3",
+        "North Yankton"
+    },
+    cancel = "CANCEL",
+    give = "GIVE VEHICLE",
+    errRequired = "Player ID and vehicle code are required.",
+    processing = "Processing..."
+}

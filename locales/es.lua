@@ -1,0 +1,40 @@
+return {
+    playerId = "ID DE JUGADOR",
+    vehicleCode = "CÓDIGO DE VEHÍCULO",
+    plate = "MATRÍCULA",
+    plateColor = "COLOR DE PLACA",
+    vehicleColor = "COLOR DE VEHÍCULO",
+    vehicleColors = {
+        { 0, "Negro" },
+        { 1, "Negro Carbón" },
+        { 4, "Plata" },
+        { 6, "Gris Acero" },
+        { 7, "Plata Nocturna" },
+        { 8, "Metal Gun" },
+        { 10, "Rojo" },
+        { 13, "Rojo Llama" },
+        { 18, "Rojo Caramelo" },
+        { 21, "Naranja" },
+        { 27, "Azul Ultra" },
+        { 34, "Verde Oscuro" },
+        { 35, "Verde Carrera" },
+        { 41, "Amarillo" },
+        { 48, "Oro" },
+        { 53, "Blanco" },
+        { 54, "Crema" },
+        { 88, "Negro Mate" },
+        { 111, "Blanco Perla" }
+    },
+    colors = {
+        "Placa blanca - texto azul",
+        "Placa negra - texto amarillo",
+        "Placa azul - texto amarillo",
+        "Placa blanca - texto azul 2",
+        "Placa blanca - texto azul 3",
+        "North Yankton"
+    },
+    cancel = "CANCELAR",
+    give = "DAR VEHÍCULO",
+    errRequired = "El ID del jugador y el código del vehículo son obligatorios.",
+    processing = "Procesando..."
+}

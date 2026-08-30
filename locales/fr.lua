@@ -1,0 +1,40 @@
+return {
+    playerId = "ID JOUEUR",
+    vehicleCode = "CODE VÉHICULE",
+    plate = "PLAQUE",
+    plateColor = "COULEUR DE PLAQUE",
+    vehicleColor = "COULEUR VÉHICULE",
+    colors = {
+        "Bande blanche - texte bleu",
+        "Bande noire - texte jaune",
+        "Bande bleue - texte jaune",
+        "Bande blanche - texte bleu 2",
+        "Bande blanche - texte bleu 3",
+        "North Yankton"
+    },
+    cancel = "ANNULER",
+    give = "DONNER VÉHICULE",
+    errRequired = "L'ID du joueur et le code véhicule sont requis.",
+    processing = "Traitement...",
+    vehicleColors = {
+        { 0, "Noir" },
+        { 1, "Noir graphite" },
+        { 4, "Argent" },
+        { 6, "Gris acier" },
+        { 7, "Argent minuit" },
+        { 8, "Gris métal" },
+        { 10, "Rouge" },
+        { 13, "Rouge flamme" },
+        { 18, "Rouge bonbon" },
+        { 21, "Orange" },
+        { 27, "Bleu ultra" },
+        { 34, "Vert foncé" },
+        { 35, "Vert course" },
+        { 41, "Jaune" },
+        { 48, "Or" },
+        { 53, "Blanc" },
+        { 54, "Crème" },
+        { 88, "Noir mat" },
+        { 111, "Blanc nacre" }
+    }
+}

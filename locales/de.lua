@@ -1,0 +1,40 @@
+return {
+    playerId = "SPIELER-ID",
+    vehicleCode = "FAHRZEUGCODE",
+    plate = "KENNZEICHEN",
+    plateColor = "KENNZEICHENFARBE",
+    vehicleColor = "FAHRZEUGFARBE",
+    colors = {
+        "Weißer Hintergrund - blauer Text",
+        "Schwarzer Hintergrund - gelber Text",
+        "Blauer Hintergrund - gelber Text",
+        "Weißer Hintergrund - blauer Text 2",
+        "Weißer Hintergrund - blauer Text 3",
+        "North Yankton"
+    },
+    cancel = "ABBRECHEN",
+    give = "FAHRZEUG GEBEN",
+    errRequired = "Spieler-ID und Fahrzeugcode sind erforderlich.",
+    processing = "Wird verarbeitet...",
+    vehicleColors = {
+        { 0, "Schwarz" },
+        { 1, "Graphitschwarz" },
+        { 4, "Silber" },
+        { 6, "Stahlgrau" },
+        { 7, "Mitternachtsilber" },
+        { 8, "Metallgrau" },
+        { 10, "Rot" },
+        { 13, "Flammenrot" },
+        { 18, "Bonbonrot" },
+        { 21, "Orange" },
+        { 27, "Ultramarine" },
+        { 34, "Dunkelgrün" },
+        { 35, "Renngrün" },
+        { 41, "Gelb" },
+        { 48, "Gold" },
+        { 53, "Weiß" },
+        { 54, "Creme" },
+        { 88, "Matt Schwarz" },
+        { 111, "Perlweiß" }
+    }
+}

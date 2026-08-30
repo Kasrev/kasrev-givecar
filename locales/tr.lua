@@ -1,0 +1,40 @@
+return {
+    playerId = "OYUNCU ID",
+    vehicleCode = "ARAÇ KODU",
+    plate = "PLAKA",
+    plateColor = "PLAKA RENK",
+    vehicleColor = "ARAÇ RENK",
+    vehicleColors = {
+        { 0, "Siyah" },
+        { 1, "Kömür Siyah" },
+        { 4, "Gümüş" },
+        { 6, "Çelik Gri" },
+        { 7, "Gece Grisi" },
+        { 8, "Silah Metal Gri" },
+        { 10, "Kırmızı" },
+        { 13, "Alev Kırmızısı" },
+        { 18, "Şeker Kırmızısı" },
+        { 21, "Turuncu" },
+        { 27, "Ultra Mavi" },
+        { 34, "Koyu Yeşil" },
+        { 35, "Yarış Yeşili" },
+        { 41, "Sarı" },
+        { 48, "Altın" },
+        { 53, "Beyaz" },
+        { 54, "Krem" },
+        { 88, "Mat Siyah" },
+        { 111, "İnci Beyaz" }
+    },
+    colors = {
+        "Beyaz Zemin - Mavi Yazı",
+        "Siyah Zemin - Sarı Yazı",
+        "Mavi Zemin - Sarı Yazı",
+        "Beyaz Zemin - Mavi Yazı 2",
+        "Beyaz Zemin - Mavi Yazı 3",
+        "North Yankton"
+    },
+    cancel = "IPTAL",
+    give = "ARACI VER",
+    errRequired = "Oyuncu ID ve araç kodu zorunludur.",
+    processing = "İşleniyor..."
+}

@@ -1,0 +1,40 @@
+return {
+    playerId = "ID GIOCATORE",
+    vehicleCode = "CODICE VEICOLO",
+    plate = "TARGA",
+    plateColor = "COLORE TARGA",
+    vehicleColor = "COLORE VEICOLO",
+    colors = {
+        "Banda bianca - testo blu",
+        "Banda nera - testo giallo",
+        "Banda blu - testo giallo",
+        "Banda bianca - testo blu 2",
+        "Banda bianca - testo blu 3",
+        "North Yankton"
+    },
+    cancel = "ANNULLA",
+    give = "CONSEGNA VEICOLO",
+    errRequired = "L'ID del giocatore e il codice del veicolo sono obbligatori.",
+    processing = "Elaborazione...",
+    vehicleColors = {
+        { 0, "Nero" },
+        { 1, "Nero grafite" },
+        { 4, "Argento" },
+        { 6, "Grigio acciaio" },
+        { 7, "Argento mezzanotte" },
+        { 8, "Grigio metallico" },
+        { 10, "Rosso" },
+        { 13, "Rosso fiamma" },
+        { 18, "Rosso caramella" },
+        { 21, "Arancione" },
+        { 27, "Blu ultra" },
+        { 34, "Verde scuro" },
+        { 35, "Verde corsa" },
+        { 41, "Giallo" },
+        { 48, "Oro" },
+        { 53, "Bianco" },
+        { 54, "Crema" },
+        { 88, "Nero opaco" },
+        { 111, "Bianco perla" }
+    }
+}

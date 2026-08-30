@@ -37,7 +37,7 @@ All settings are in `config.lua`.
 ### Language
 
 ```lua
-Config.Language = 'tr' -- tr, en, ja, ar, es, fr, it, pt, ru, de
+Config.Language = 'en' -- tr, en, ja, ar, es, fr, it, pt, ru, de
 ```
 
 To add a new language, create `locales/XX.lua` returning the same keys and set the code here.
